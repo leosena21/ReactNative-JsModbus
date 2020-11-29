@@ -1,7 +1,7 @@
 # ReactNative JsModbus
 
 Criação de um aplicativo mobile para comunicação ModBus com o EcoStruxure.
-Foi desenvolvido um servidor node, se comunicando localhost com a aplicação.
+Foi desenvolvido um servidor node que se comunica localhost com a aplicação.
 
 ## Para rodar a aplicação:
   1. yarn install (backend e mobile)
